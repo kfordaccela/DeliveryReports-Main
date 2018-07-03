@@ -1,0 +1,6 @@
+[submodule "ClientName"]
+	path = ClientName
+	url = https://github.com/kfordaccela/DeliveryReports-Client.git
+[submodule "Client2"]
+	path = Client2
+	url = https://github.com/kfordaccela/DeliveryReports-Client2.git

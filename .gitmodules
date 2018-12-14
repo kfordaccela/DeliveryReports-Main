@@ -4,3 +4,6 @@
 [submodule "Client2"]
 	path = Client2
 	url = https://github.com/kfordaccela/DeliveryReports-Client2.git
+[submodule "DataConversions2"]
+	path = DataConversions2
+	url = https://github.com/kfordaccela/DeliveryReports-Client2.git
